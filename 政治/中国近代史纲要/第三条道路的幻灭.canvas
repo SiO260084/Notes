@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"7a658195dd8bf9e1","x":640,"y":-50,"width":381,"height":509,"color":"6","type":"group","label":"第三条道路走不通的原因"},
+		{"id":"82cb44d406e81c73","x":120,"y":-50,"width":440,"height":333,"color":"5","type":"group","label":"路线"},
+		{"id":"d46ac11fb305b4c9","x":-145,"y":-50,"width":185,"height":330,"color":"4","type":"group","label":"三股势力"},
+		{"id":"8e0aebc2fe447be3","x":-125,"y":-29,"width":145,"height":60,"color":"4","type":"text","text":"国民党"},
+		{"id":"22fa72f6a69ceca9","x":-125,"y":81,"width":145,"height":60,"color":"4","type":"text","text":"中间势力"},
+		{"id":"641251f3f36ed9bf","x":-125,"y":204,"width":145,"height":60,"color":"4","type":"text","text":"共产党"},
+		{"id":"61d4e3e87b205e0a","x":140,"y":-30,"width":183,"height":60,"color":"5","type":"text","text":"半殖民地半封建"},
+		{"id":"799271dedb38b7d5","x":140,"y":80,"width":280,"height":60,"color":"5","type":"text","text":"第三条道路\n资产阶级共和国"},
+		{"id":"451d23e346dd3037","x":140,"y":203,"width":183,"height":60,"color":"5","type":"text","text":"新民主主义"},
+		{"id":"2b53aec9b463e889","x":400,"y":204,"width":140,"height":60,"color":"5","type":"text","text":"社会主义 "},
+		{"id":"3be97ca344278285","x":660,"y":102,"width":321,"height":157,"color":"6","type":"text","text":"因为帝国主义不允许。\n帝国主义根本就不允许中国走向一个独立富强的资本主义道路。它不允许我们走这条道路，他们只希望中国成为他们的附庸，纳入他们的体系，"},
+		{"id":"c91616ad2327895d","x":660,"y":-30,"width":321,"height":112,"color":"6","type":"text","text":"中国的民族资产阶级太软弱。他们没有足够的实力去领导中国人民走通这条路。"},
+		{"id":"19ce930833961229","x":660,"y":279,"width":321,"height":152,"color":"6","type":"text","text":"国民党反动派不允许。\n国民党反动派军事专制独裁统治，他们只想走自己的那个路，根本不允许中国走上一条这个这个民主的资本主义道路"}
+	],
+	"edges":[
+		{"id":"2c67ab8bcf8428d2","fromNode":"8e0aebc2fe447be3","fromSide":"right","toNode":"61d4e3e87b205e0a","toSide":"left"},
+		{"id":"13f4c1ae531ebbcd","fromNode":"22fa72f6a69ceca9","fromSide":"right","toNode":"799271dedb38b7d5","toSide":"left"},
+		{"id":"9b30316da36cafc6","fromNode":"641251f3f36ed9bf","fromSide":"right","toNode":"451d23e346dd3037","toSide":"left"},
+		{"id":"4227d27b260e2630","fromNode":"451d23e346dd3037","fromSide":"right","toNode":"2b53aec9b463e889","toSide":"left"},
+		{"id":"7bc7492085dc508a","fromNode":"799271dedb38b7d5","fromSide":"right","toNode":"7a658195dd8bf9e1","toSide":"left"}
+	]
+}

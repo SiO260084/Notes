@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"4cbe632c6fa8babd","x":-334,"y":-209,"width":174,"height":180,"color":"1","type":"group","label":"一个整体"},
+		{"id":"5492c736a81dbfd2","type":"text","text":"国家富强","x":-314,"y":-189,"width":127,"height":60},
+		{"id":"638d0da927a4ebde","type":"text","text":"民族振兴","x":-314,"y":-109,"width":127,"height":60},
+		{"id":"7fa30c3175fee9ea","type":"text","text":"人民幸福","x":160,"y":-189,"width":140,"height":60,"color":"#125ed9"}
+	],
+	"edges":[
+		{"id":"9011ec48250ea0bc","fromNode":"4cbe632c6fa8babd","fromSide":"top","toNode":"7fa30c3175fee9ea","toSide":"top","color":"4","label":"基础、保障、前提"},
+		{"id":"e5a0e992da43d6ad","fromNode":"7fa30c3175fee9ea","fromSide":"bottom","toNode":"4cbe632c6fa8babd","toSide":"bottom","color":"3","label":"出发点、落脚点、根本目的、归宿"}
+	]
+}

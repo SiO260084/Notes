@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"1edb080cac01d5ff","type":"text","text":"生产力","x":-220,"y":-30,"width":250,"height":60},
+		{"id":"fa67774c7dc1ec8f","type":"text","text":"劳动资料","x":120,"y":-140,"width":250,"height":60},
+		{"id":"1576ed68370e97b6","type":"text","text":"劳动对象","x":120,"y":-30,"width":250,"height":60},
+		{"id":"f3bccb6420f5d7be","x":527,"y":-94,"width":250,"height":60,"type":"text","text":"生产资料"},
+		{"id":"63c0d0b36ce73c92","type":"text","text":"劳动者","x":120,"y":80,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"ca3397ffdc1d7346","fromNode":"1edb080cac01d5ff","fromSide":"right","toNode":"fa67774c7dc1ec8f","toSide":"left"},
+		{"id":"23497ede42a04882","fromNode":"1edb080cac01d5ff","fromSide":"right","toNode":"1576ed68370e97b6","toSide":"left"},
+		{"id":"ec63392111f9938b","fromNode":"1edb080cac01d5ff","fromSide":"right","toNode":"63c0d0b36ce73c92","toSide":"left"},
+		{"id":"55848eb3853bc300","fromNode":"fa67774c7dc1ec8f","fromSide":"right","toNode":"f3bccb6420f5d7be","toSide":"left"},
+		{"id":"b67bdd96b43bd322","fromNode":"1576ed68370e97b6","fromSide":"right","toNode":"f3bccb6420f5d7be","toSide":"left"},
+		{"id":"02619176cd061a3c","fromNode":"63c0d0b36ce73c92","fromSide":"right","toNode":"f3bccb6420f5d7be","toSide":"bottom","label":"对立统一"},
+		{"id":"5e1985e849df0e89","fromNode":"f3bccb6420f5d7be","fromSide":"bottom","toNode":"63c0d0b36ce73c92","toSide":"right"}
+	]
+}

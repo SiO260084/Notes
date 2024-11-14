@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"0549ce399f946858","type":"text","text":"首要任务","x":-120,"y":-647,"width":218,"height":60},
+		{"id":"159f342e9f9be4a6","type":"text","text":"根基","x":-120,"y":-567,"width":218,"height":60},
+		{"id":"2facaf05877210fd","type":"text","text":"基础性、战略性支撑","x":-120,"y":-487,"width":218,"height":60},
+		{"id":"e455ac7dfb594c11","type":"text","text":"战略先导","x":-120,"y":-407,"width":218,"height":60},
+		{"id":"bdcd95b65059816d","type":"text","text":"高质量发展","x":179,"y":-647,"width":200,"height":60},
+		{"id":"714ad0f09c5e8e07","type":"text","text":"农业强国","x":179,"y":-567,"width":200,"height":60},
+		{"id":"5c3be2dc0ad07e9f","type":"text","text":"教育强国","x":179,"y":-407,"width":200,"height":60},
+		{"id":"31dfe993bb4edee1","type":"text","text":"人民民主","x":179,"y":-327,"width":200,"height":60},
+		{"id":"917b039ed33dca7d","type":"text","text":"教育、科技、人才","x":179,"y":-487,"width":200,"height":60},
+		{"id":"7a5035a079c879d3","type":"text","text":"文化繁荣兴盛","x":179,"y":-247,"width":200,"height":60},
+		{"id":"b17c8be7a18b5143","type":"text","text":"让人民生活越过越好","x":179,"y":-167,"width":200,"height":60},
+		{"id":"d4f9079a3a030fde","x":179,"y":-87,"width":200,"height":60,"type":"text","text":"尊重自然、顺应自然、保护自然"},
+		{"id":"bfd2cfeb7a0718f3","type":"text","text":"应有之义  \n应有之义可以是别的","x":-120,"y":-327,"width":218,"height":60},
+		{"id":"a86610fe53eee1d1","type":"text","text":"出发点和落脚点","x":-120,"y":-167,"width":218,"height":60},
+		{"id":"566e48cd4b42ad4a","x":-120,"y":-87,"width":218,"height":60,"type":"text","text":"内在要求"},
+		{"id":"4ccc871fa5e61704","type":"text","text":"全面建设社会主义现代化国家","x":-580,"y":-407,"width":251,"height":60}
+	],
+	"edges":[
+		{"id":"fd3d04f480ff12fd","fromNode":"4ccc871fa5e61704","fromSide":"right","toNode":"0549ce399f946858","toSide":"left"},
+		{"id":"7d51dce81dc5b45d","fromNode":"0549ce399f946858","fromSide":"right","toNode":"bdcd95b65059816d","toSide":"left"},
+		{"id":"7101d10459e07727","fromNode":"4ccc871fa5e61704","fromSide":"right","toNode":"159f342e9f9be4a6","toSide":"left"},
+		{"id":"32c8d382a284e80e","fromNode":"159f342e9f9be4a6","fromSide":"right","toNode":"714ad0f09c5e8e07","toSide":"left"},
+		{"id":"1934a24b0c2d8627","fromNode":"4ccc871fa5e61704","fromSide":"right","toNode":"2facaf05877210fd","toSide":"left"},
+		{"id":"3c6330d9ff8a2821","fromNode":"2facaf05877210fd","fromSide":"right","toNode":"917b039ed33dca7d","toSide":"left"},
+		{"id":"fc57ea2aa19aa78e","fromNode":"4ccc871fa5e61704","fromSide":"right","toNode":"e455ac7dfb594c11","toSide":"left"},
+		{"id":"2932af2912031644","fromNode":"e455ac7dfb594c11","fromSide":"right","toNode":"5c3be2dc0ad07e9f","toSide":"left"},
+		{"id":"59689abe99e9f9a6","fromNode":"4ccc871fa5e61704","fromSide":"right","toNode":"bfd2cfeb7a0718f3","toSide":"left"},
+		{"id":"51ff21c4af74a1be","fromNode":"bfd2cfeb7a0718f3","fromSide":"right","toNode":"31dfe993bb4edee1","toSide":"left"},
+		{"id":"a74c5386393f2b44","fromNode":"bfd2cfeb7a0718f3","fromSide":"right","toNode":"7a5035a079c879d3","toSide":"left"},
+		{"id":"7b4d1b9ca7d81780","fromNode":"4ccc871fa5e61704","fromSide":"right","toNode":"a86610fe53eee1d1","toSide":"left"},
+		{"id":"4d6486755c552a3d","fromNode":"a86610fe53eee1d1","fromSide":"right","toNode":"b17c8be7a18b5143","toSide":"left"},
+		{"id":"9acec829527dfd10","fromNode":"4ccc871fa5e61704","fromSide":"right","toNode":"566e48cd4b42ad4a","toSide":"left"},
+		{"id":"475e762f0c35aa67","fromNode":"566e48cd4b42ad4a","fromSide":"right","toNode":"d4f9079a3a030fde","toSide":"left"}
+	]
+}

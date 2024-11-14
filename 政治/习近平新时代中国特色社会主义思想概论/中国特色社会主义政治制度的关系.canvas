@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"0ddfc6dd143fe195","type":"text","text":"根本政治制度","x":-360,"y":-188,"width":380,"height":60,"color":"1"},
+		{"id":"d0ae9aae678c62b7","type":"text","text":"基本政治制度","x":-360,"y":-108,"width":380,"height":60,"color":"3"},
+		{"id":"2274b78edafd287a","type":"text","text":"重要政治制度  \n**建立**在==根本政治制度==和==基本政治制度==基础上  \n由==根本政治制度==和==基本政治制度==**派生**而来","x":-360,"y":-28,"width":380,"height":100,"color":"5"},
+		{"id":"20b0eeb246c24562","type":"text","text":"中国特色社会主义政治制度","x":-720,"y":-108,"width":260,"height":60,"color":"#90dd31"},
+		{"id":"d95a341810efc16c","type":"text","text":"多党合作和政治协商制度","x":140,"y":-108,"width":250,"height":60,"color":"3"},
+		{"id":"7c6fd681b7c52c92","type":"text","text":"民族区域自制制度","x":140,"y":-28,"width":250,"height":60,"color":"3"},
+		{"id":"942a4fb53923903e","type":"text","text":"基层群众自制制度","x":140,"y":52,"width":250,"height":60,"color":"3"},
+		{"id":"0d798426e629d54a","type":"text","text":"人民代表大会制度","x":140,"y":-188,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"b19969f12083901a","fromNode":"20b0eeb246c24562","fromSide":"right","toNode":"0ddfc6dd143fe195","toSide":"left","color":"1"},
+		{"id":"4843778fbce9ebf0","fromNode":"20b0eeb246c24562","fromSide":"right","toNode":"d0ae9aae678c62b7","toSide":"left","color":"3"},
+		{"id":"7c6d8b9046d4bb78","fromNode":"20b0eeb246c24562","fromSide":"right","toNode":"2274b78edafd287a","toSide":"left","color":"5"},
+		{"id":"ca56d5b5b3bde6e5","fromNode":"0ddfc6dd143fe195","fromSide":"right","toNode":"0d798426e629d54a","toSide":"left","color":"1"},
+		{"id":"2ffc267323c5b0d2","fromNode":"d0ae9aae678c62b7","fromSide":"right","toNode":"d95a341810efc16c","toSide":"left","color":"3"},
+		{"id":"61e2120e15fcb642","fromNode":"d0ae9aae678c62b7","fromSide":"right","toNode":"7c6fd681b7c52c92","toSide":"left","color":"3"},
+		{"id":"9299b21c3eea6833","fromNode":"d0ae9aae678c62b7","fromSide":"right","toNode":"942a4fb53923903e","toSide":"left","color":"3"}
+	]
+}

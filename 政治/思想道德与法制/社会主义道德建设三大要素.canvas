@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"34689cd5d2a95fa4","x":113,"y":-242,"width":253,"height":60,"type":"text","text":"为人民服务"},
+		{"id":"cbd277e2a860820e","x":113,"y":6,"width":253,"height":60,"type":"text","text":"诚实守信"},
+		{"id":"0f9b66b67b04ba7a","x":-360,"y":-125,"width":259,"height":80,"type":"text","text":"社会主义道德建设"},
+		{"id":"acdac256221cd4e5","x":113,"y":-115,"width":253,"height":60,"type":"text","text":"集体主义"}
+	],
+	"edges":[
+		{"id":"ab2cc3cfd26b7884","fromNode":"0f9b66b67b04ba7a","fromSide":"right","toNode":"34689cd5d2a95fa4","toSide":"left","label":"核心"},
+		{"id":"1e74577767de5c91","fromNode":"0f9b66b67b04ba7a","fromSide":"right","toNode":"acdac256221cd4e5","toSide":"left","label":"原则"},
+		{"id":"d25540f063717c8f","fromNode":"0f9b66b67b04ba7a","fromSide":"right","toNode":"cbd277e2a860820e","toSide":"left","label":"重点"}
+	]
+}

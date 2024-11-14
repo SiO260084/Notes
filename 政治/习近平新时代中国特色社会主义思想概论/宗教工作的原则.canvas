@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4cb5384cf67a7ba6","x":145,"y":-320,"width":335,"height":110,"type":"text","text":"#### 独立自主自办的原则  \n中国国家自主自办，不是个人自主自办"},
+		{"id":"eef0e95d37035219","x":145,"y":-180,"width":335,"height":140,"type":"text","text":"#### 政教分离的原则\n宗教就从事宗教，不能干预政治，也就是不能干预国家的立法、司法、行政、教育等"},
+		{"id":"43ca2147f888ed77","x":-200,"y":-210,"width":211,"height":60,"type":"text","text":"处理宗教事务的原则"}
+	],
+	"edges":[
+		{"id":"57a74a6880e6cd36","fromNode":"43ca2147f888ed77","fromSide":"right","toNode":"4cb5384cf67a7ba6","toSide":"left"},
+		{"id":"f9d1c6db2ced0575","fromNode":"43ca2147f888ed77","fromSide":"right","toNode":"eef0e95d37035219","toSide":"left"}
+	]
+}

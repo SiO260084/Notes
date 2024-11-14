@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"ddc5838ec2e3072a","type":"text","text":"初步形成","x":-291,"y":-106,"width":250,"height":60},
+		{"id":"0fc486269f6d799c","type":"text","text":"达到成熟","x":-21,"y":-106,"width":250,"height":60},
+		{"id":"73c8cff4469eb51a","type":"text","text":"作为指导思想写入党章","x":249,"y":-106,"width":250,"height":60},
+		{"id":"eefd09e9d65d6acb","type":"text","text":"革命道路理论的初步形成","x":-291,"y":40,"width":250,"height":74},
+		{"id":"41e6ce42f056e0f7","type":"text","text":"新民主主义理论的系统阐明","x":-21,"y":40,"width":250,"height":74},
+		{"id":"a2aba3458664845f","type":"text","text":"中共七大","x":249,"y":40,"width":250,"height":74}
+	],
+	"edges":[
+		{"id":"5564090724d1e925","fromNode":"ddc5838ec2e3072a","fromSide":"bottom","toNode":"eefd09e9d65d6acb","toSide":"top","label":"标志"},
+		{"id":"e617b8054a6352af","fromNode":"ddc5838ec2e3072a","fromSide":"right","toNode":"0fc486269f6d799c","toSide":"left"},
+		{"id":"37c5b617200624e6","fromNode":"0fc486269f6d799c","fromSide":"bottom","toNode":"41e6ce42f056e0f7","toSide":"top","label":"标志"},
+		{"id":"e3e9002ef1c5833a","fromNode":"0fc486269f6d799c","fromSide":"right","toNode":"73c8cff4469eb51a","toSide":"left"},
+		{"id":"4fd9a5900c60579c","fromNode":"73c8cff4469eb51a","fromSide":"bottom","toNode":"a2aba3458664845f","toSide":"top","label":"标志"}
+	]
+}

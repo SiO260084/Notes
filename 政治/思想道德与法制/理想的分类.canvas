@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"0c371eb2b99ad8c2","type":"group","x":-840,"y":-443,"width":300,"height":343,"color":"1","label":"按内容分类"},
+		{"id":"3947babb3d90ee44","type":"group","x":-840,"y":-40,"width":296,"height":208,"color":"4","label":"按层次分类"},
+		{"id":"d17b30627f692948","type":"group","x":-60,"y":-100,"width":290,"height":200,"color":"3","label":"按阶段分类"},
+		{"id":"07e6c04eeadeeb3c","type":"group","x":-60,"y":-340,"width":290,"height":189,"color":"5","label":"按照主体分类"},
+		{"id":"f8cd3a162d451ab2","type":"text","text":"生活理想","x":-820,"y":-267,"width":240,"height":50},
+		{"id":"2ce23afe76aced0e","type":"text","text":"职业理想","x":-820,"y":-340,"width":240,"height":53},
+		{"id":"158e9de64bc5fa08","type":"text","text":"政治理想","x":-820,"y":-420,"width":240,"height":60},
+		{"id":"cd305e766a256ac8","type":"text","text":"道德理想","x":-820,"y":-201,"width":240,"height":50},
+		{"id":"cc6ad3584ba2515f","type":"text","text":"崇高理想","x":-820,"y":-20,"width":250,"height":60},
+		{"id":"fe268221e974c6ab","type":"text","text":"一般理想","x":-820,"y":82,"width":250,"height":60},
+		{"id":"e2e2e5f1c978463b","type":"text","text":"理想","x":-380,"y":-110,"width":120,"height":60},
+		{"id":"6d9b382cb7b0b7eb","type":"text","text":"个人理想","x":-40,"y":-320,"width":250,"height":60},
+		{"id":"37b4526ca63ecd30","type":"text","text":"社会理想","x":-40,"y":-231,"width":250,"height":60},
+		{"id":"32455a4b81dd5f72","type":"text","text":"近期理想","x":-40,"y":-80,"width":250,"height":60},
+		{"id":"adc52c1b9a0fd826","type":"text","text":"远期理想","x":-40,"y":10,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b3e9e12feab115c5","fromNode":"e2e2e5f1c978463b","fromSide":"left","toNode":"0c371eb2b99ad8c2","toSide":"right","color":"1"},
+		{"id":"556312ae3f875771","fromNode":"e2e2e5f1c978463b","fromSide":"right","toNode":"07e6c04eeadeeb3c","toSide":"left","color":"5"},
+		{"id":"21219992ad94fdf5","fromNode":"e2e2e5f1c978463b","fromSide":"right","toNode":"d17b30627f692948","toSide":"left","color":"3"},
+		{"id":"439211789befe25b","fromNode":"e2e2e5f1c978463b","fromSide":"left","toNode":"3947babb3d90ee44","toSide":"right","color":"4"}
+	]
+}

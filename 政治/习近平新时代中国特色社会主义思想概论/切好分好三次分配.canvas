@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"de9b68d871609b3b","x":-213,"y":-138,"width":133,"height":60,"color":"1","type":"text","text":"初次分配"},
+		{"id":"1d2b5dc8be29e055","x":-213,"y":-58,"width":133,"height":60,"color":"3","type":"text","text":"再分配"},
+		{"id":"ce23d32e878a8e0d","x":-213,"y":22,"width":133,"height":60,"color":"5","type":"text","text":"三次分配"},
+		{"id":"7f14058d54581e23","x":0,"y":-58,"width":240,"height":60,"color":"3","type":"text","text":"政府：税收、转移支付"},
+		{"id":"1d64236651d597cc","x":0,"y":22,"width":240,"height":60,"color":"5","type":"text","text":"社会：公益，慈善等各种社会救助的组织"},
+		{"id":"cb96294cb168066a","x":0,"y":-138,"width":240,"height":60,"color":"1","type":"text","text":"市场"}
+	],
+	"edges":[
+		{"id":"e617c333131d992a","fromNode":"de9b68d871609b3b","fromSide":"bottom","toNode":"1d2b5dc8be29e055","toSide":"top"},
+		{"id":"48f80d3a155a778c","fromNode":"1d2b5dc8be29e055","fromSide":"bottom","toNode":"ce23d32e878a8e0d","toSide":"top"},
+		{"id":"350498d633ce9428","fromNode":"1d2b5dc8be29e055","fromSide":"right","toNode":"7f14058d54581e23","toSide":"left","color":"3"},
+		{"id":"cbff453c3c0fc94a","fromNode":"ce23d32e878a8e0d","fromSide":"right","toNode":"1d64236651d597cc","toSide":"left","color":"5"},
+		{"id":"0bf92a8adaaea294","fromNode":"de9b68d871609b3b","fromSide":"right","toNode":"cb96294cb168066a","toSide":"left","color":"1"}
+	]
+}
