@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "2cc2d117054e27ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f253d31ecd9c183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "937359ab768429b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "022511d52e7864ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "f62f9e7f9fdca045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "130c4ad202e0e790",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2cbbd07b8144f898",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a3b08369b235faec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "c16603c54b3d2593",
+    "type": "split",
+    "children": [
+      {
+        "id": "68967c5874c045a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4146e7e4323e69f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bc2b54062be6b75c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6dcb7d8883910bdb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "982d52707c4ba638",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "937359ab768429b2",
+  "lastOpenFiles": [
+    "resources/1731205342.png",
+    "英语/2018英语二.md",
+    "车辆工程/汽车制造工艺学.md",
+    "车辆工程/汽车电器.md",
+    "车辆工程/车辆构造重点录音.md",
+    "车辆工程/车辆理论.md",
+    "英语/虚拟语气.md",
+    "英语/写作技巧.md",
+    "理论力学/理论力学真题.md",
+    "resources/2018英语二作文图.jpg",
+    "理论力学/理论力学习题.md",
+    "理论力学/动力学.md",
+    "理论力学/判断零杆.md",
+    "理论力学/动力学2.md",
+    "理论力学/动力学3.md",
+    "理论力学/压力角.md",
+    "理论力学/合成运动.canvas",
+    "理论力学/圆周运动.md",
+    "英语/Essays.md",
+    "英语/2017英语二.md",
+    "理论力学/运动学.md",
+    "数学/泰勒展开&高阶导数.md",
+    "英语/2011英语二翻译.md",
+    "英语/写作模板.md",
+    "resources/2017年英语二作文图.jpg",
+    "理论力学/运动矢量.md",
+    "英语/2016英语二.md",
+    "英语/2015英语二.md",
+    "数学/李林6套卷错题.md",
+    "resources/动能定理.png",
+    "resources/动量矩定理和刚体平面运动微分方程 固定轴.png",
+    "resources/动量矩定理和刚体平面运动微分方程 平面运动微分方程.png",
+    "resources/动量矩定理和刚体平面运动微分方程 动量矩定理.png",
+    "resources/解题建议.png",
+    "resources/动量定理和质心运动定理.png",
+    "resources/点的合成运动 加速度分析.png",
+    "resources/刚体惯性力系的简化 刚体平移.png",
+    "Untitled.canvas",
+    "政治/习近平新时代中国特色社会主义思想概论/中国特色社会主义政治制度的关系.canvas",
+    "政治/习近平新时代中国特色社会主义思想概论/切好分好三次分配.canvas",
+    "政治/习近平新时代中国特色社会主义思想概论/中国与他国的区别.canvas",
+    "政治/习近平新时代中国特色社会主义思想概论/中国梦.canvas",
+    "政治/习近平新时代中国特色社会主义思想概论/中国特色社会主义政治制度具有巨大优势.canvas",
+    "政治/习近平新时代中国特色社会主义思想概论/宗教工作的原则.canvas",
+    "政治/习近平新时代中国特色社会主义思想概论/外交工作.canvas",
+    "政治/习近平新时代中国特色社会主义思想概论/四个全面战略布局.canvas",
+    "理论力学"
+  ]
+}
