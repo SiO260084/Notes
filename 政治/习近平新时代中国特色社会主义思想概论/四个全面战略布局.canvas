@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"09699b5a2895eb7b","x":-440,"y":-300,"width":313,"height":380,"color":"1","type":"group","label":"四个全面战略布局"},
+		{"id":"3f3887020a1f8847","type":"text","text":"全面深化改革","x":-413,"y":-160,"width":173,"height":60,"color":"5"},
+		{"id":"3e07f70b1c168400","type":"text","text":"全面依法治国","x":-413,"y":-80,"width":173,"height":60,"color":"#de3fbb"},
+		{"id":"922fa56aa131cd26","type":"text","text":"全面从严治党","x":-413,"y":0,"width":173,"height":60,"color":"6"},
+		{"id":"fafe5b8dbbe469a1","type":"text","text":"全面建设社会主义现代化国家","x":-420,"y":-280,"width":273,"height":55,"color":"4"},
+		{"id":"e34f1cbd7ae43f21","type":"text","text":"动力环节","x":-80,"y":-42,"width":157,"height":60,"color":"5"},
+		{"id":"0d2d3081eafee7ad","type":"text","text":"重要保障","x":-80,"y":38,"width":157,"height":60,"color":"#de3fbb"},
+		{"id":"d17a8914a3b5f7a5","type":"text","text":"根本保证","x":-80,"y":118,"width":157,"height":60,"color":"6"},
+		{"id":"4bab5cdd4e81209e","type":"text","text":"突破性环节","x":-80,"y":-202,"width":157,"height":60,"color":"5"},
+		{"id":"1e5a4114a30d9270","type":"text","text":"先到性环节","x":-80,"y":-122,"width":157,"height":60,"color":"5"},
+		{"id":"0e216e153ec03168","type":"text","text":"引领性环节","x":-80,"y":-282,"width":157,"height":60,"color":"4"},
+		{"id":"61cd39b4c23dbff4","type":"text","text":"战略举措","x":-660,"y":-80,"width":138,"height":60,"color":"2"},
+		{"id":"faa00368a8592d9a","type":"text","text":"战略目标","x":-660,"y":-282,"width":138,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"f4bc51114c18da39","fromNode":"faa00368a8592d9a","fromSide":"right","toNode":"fafe5b8dbbe469a1","toSide":"left"},
+		{"id":"b392d375ae9d4cb7","fromNode":"61cd39b4c23dbff4","fromSide":"right","toNode":"3f3887020a1f8847","toSide":"left"},
+		{"id":"3df16756528d93a5","fromNode":"61cd39b4c23dbff4","fromSide":"right","toNode":"3e07f70b1c168400","toSide":"left"},
+		{"id":"59c42a84fe450920","fromNode":"61cd39b4c23dbff4","fromSide":"right","toNode":"922fa56aa131cd26","toSide":"left"},
+		{"id":"c9e3a9dcc62dd1ab","fromNode":"0e216e153ec03168","fromSide":"left","toNode":"fafe5b8dbbe469a1","toSide":"right","color":"4"},
+		{"id":"c7311df07840db91","fromNode":"4bab5cdd4e81209e","fromSide":"left","toNode":"3f3887020a1f8847","toSide":"right","color":"5"},
+		{"id":"bfb8449a2e3f1c88","fromNode":"1e5a4114a30d9270","fromSide":"left","toNode":"3f3887020a1f8847","toSide":"right","color":"5"},
+		{"id":"93de783cfd5f441d","fromNode":"e34f1cbd7ae43f21","fromSide":"left","toNode":"3f3887020a1f8847","toSide":"right","color":"5"},
+		{"id":"4c85af51cb51fdbd","fromNode":"0d2d3081eafee7ad","fromSide":"left","toNode":"3e07f70b1c168400","toSide":"right","color":"#de3fbb"},
+		{"id":"86eee0e29b482003","fromNode":"d17a8914a3b5f7a5","fromSide":"left","toNode":"922fa56aa131cd26","toSide":"right","color":"6"}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"46be9e3fec0a1a6d","type":"text","text":"重要制度载体","x":-5,"y":-295,"width":185,"height":60},
+		{"id":"50a53def38576128","type":"text","text":"重要形式","x":-5,"y":-215,"width":185,"height":60},
+		{"id":"73d2d28497c4a7f6","type":"text","text":"重要体现（表现） ","x":-5,"y":-135,"width":185,"height":60},
+		{"id":"142ab6e9dc8037c9","type":"text","text":"全过程人民民主","x":-280,"y":-215,"width":180,"height":60},
+		{"id":"6e03d8ef59c9cb7d","type":"text","text":"人民代表大会制度","x":260,"y":-295,"width":200,"height":60},
+		{"id":"485643a4e0c0ab67","type":"text","text":"协商民主","x":260,"y":-215,"width":200,"height":60},
+		{"id":"352ba63e87447a79","type":"text","text":"基层民主","x":260,"y":-135,"width":200,"height":60}
+	],
+	"edges":[
+		{"id":"362b6765548b6ad7","fromNode":"142ab6e9dc8037c9","fromSide":"right","toNode":"46be9e3fec0a1a6d","toSide":"left"},
+		{"id":"1ae824409129655d","fromNode":"46be9e3fec0a1a6d","fromSide":"right","toNode":"6e03d8ef59c9cb7d","toSide":"left"},
+		{"id":"b0146e76c0a45b2a","fromNode":"142ab6e9dc8037c9","fromSide":"right","toNode":"50a53def38576128","toSide":"left"},
+		{"id":"d3ad1a4a197b1185","fromNode":"142ab6e9dc8037c9","fromSide":"right","toNode":"73d2d28497c4a7f6","toSide":"left"},
+		{"id":"e2f3d3974a579b9c","fromNode":"50a53def38576128","fromSide":"right","toNode":"485643a4e0c0ab67","toSide":"left"},
+		{"id":"7c2aaad5c159aa7b","fromNode":"73d2d28497c4a7f6","fromSide":"right","toNode":"352ba63e87447a79","toSide":"left"}
+	]
+}

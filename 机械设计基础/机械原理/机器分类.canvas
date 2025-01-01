@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fedbb095388733a4","type":"group","x":-160,"y":-180,"width":201,"height":199,"label":"用途分类"},
+		{"id":"037e87319d2ce8b4","type":"text","text":"动力机器","x":-140,"y":-160,"width":141,"height":60},
+		{"id":"50a42b47b6f3c2a1","type":"text","text":"工作机器","x":-140,"y":-80,"width":141,"height":60},
+		{"id":"9427e7fae6f9c374","type":"text","text":"[[机械原理研究的对象和内容#^1d1b60|机器]]","x":-400,"y":-110,"width":100,"height":60}
+	],
+	"edges":[
+		{"id":"9531364ec60a65a5","fromNode":"9427e7fae6f9c374","fromSide":"right","toNode":"fedbb095388733a4","toSide":"left"}
+	]
+}

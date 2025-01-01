@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"b54d3e4967bfc903","type":"group","x":-112,"y":600,"width":330,"height":332,"color":"3","label":"资本主义工商业改造"},
+		{"id":"6c332a73b06e8efd","type":"group","x":460,"y":300,"width":290,"height":260,"color":"1","label":"性质"},
+		{"id":"681453ab9013cc2f","type":"group","x":-112,"y":300,"width":267,"height":260,"color":"5","label":"手工业合作化"},
+		{"id":"fb7c524188634d2a","type":"group","x":-112,"y":0,"width":232,"height":260,"color":"4","label":"农业合作化"},
+		{"id":"e709f69320b5a541","type":"group","x":-92,"y":732,"width":290,"height":180,"color":"3","label":"高级形式国家资本主义"},
+		{"id":"39368c3e062ddf57","type":"text","text":"初级形式的国家资本主义\n加工订货、经销代销","x":-75,"y":620,"width":250,"height":60,"color":"3"},
+		{"id":"240d6b4d77b53132","type":"text","text":"个别企业公私合营  \n四马分肥","x":-72,"y":752,"width":250,"height":60,"color":"3"},
+		{"id":"877ea7bae7e0b78a","type":"text","text":"全行业公私合营","x":-72,"y":832,"width":250,"height":60,"color":"3"},
+		{"id":"7ca0a9c8e77a2437","type":"text","text":"互助组","x":-92,"y":20,"width":192,"height":60,"color":"4"},
+		{"id":"7a839121ee534212","type":"text","text":"初级农业合作社","x":-92,"y":100,"width":192,"height":60,"color":"4"},
+		{"id":"ee33d3636efb3da1","type":"text","text":"高级农业合作社","x":-92,"y":180,"width":192,"height":60,"color":"4"},
+		{"id":"3eb6a021d6fdda96","type":"text","text":"手工业生产合作小组","x":-92,"y":320,"width":227,"height":60,"color":"5"},
+		{"id":"2157c4981056c73c","type":"text","text":"手工业供销合作社","x":-92,"y":400,"width":227,"height":60,"color":"5"},
+		{"id":"f67259310917a625","type":"text","text":"手工业生产合作社","x":-92,"y":480,"width":227,"height":60,"color":"5"},
+		{"id":"8e6de7dcbd24e785","type":"text","text":"社会主义萌芽性质","x":480,"y":320,"width":250,"height":60,"color":"1"},
+		{"id":"5541ec8a721882bd","type":"text","text":"半社会主义性质","x":480,"y":400,"width":250,"height":60,"color":"1"},
+		{"id":"d763be6ea1a37cd0","type":"text","text":"社会主义性质","x":480,"y":480,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"96eec92beb975bf5","fromNode":"7ca0a9c8e77a2437","fromSide":"bottom","toNode":"7a839121ee534212","toSide":"top"},
+		{"id":"65dafd605d857d1b","fromNode":"7a839121ee534212","fromSide":"bottom","toNode":"ee33d3636efb3da1","toSide":"top"},
+		{"id":"610ac001463557a8","fromNode":"3eb6a021d6fdda96","fromSide":"bottom","toNode":"2157c4981056c73c","toSide":"top"},
+		{"id":"3a947b0803c15cc9","fromNode":"2157c4981056c73c","fromSide":"bottom","toNode":"f67259310917a625","toSide":"top"},
+		{"id":"59770a5b660e589a","fromNode":"39368c3e062ddf57","fromSide":"bottom","toNode":"240d6b4d77b53132","toSide":"top"},
+		{"id":"6013ef2186060071","fromNode":"240d6b4d77b53132","fromSide":"bottom","toNode":"877ea7bae7e0b78a","toSide":"top"},
+		{"id":"3c278e2f9abf8ad1","fromNode":"8e6de7dcbd24e785","fromSide":"bottom","toNode":"5541ec8a721882bd","toSide":"top"},
+		{"id":"af312369c71e419c","fromNode":"5541ec8a721882bd","fromSide":"bottom","toNode":"d763be6ea1a37cd0","toSide":"top"},
+		{"id":"602d1fe66571ce4c","fromNode":"5541ec8a721882bd","fromSide":"bottom","toNode":"d763be6ea1a37cd0","toSide":"top"},
+		{"id":"fdcc1407cdde07c0","fromNode":"7ca0a9c8e77a2437","fromSide":"right","toNode":"8e6de7dcbd24e785","toSide":"left","toEnd":"none","color":"4"},
+		{"id":"25c280fa3017ec52","fromNode":"7a839121ee534212","fromSide":"right","toNode":"5541ec8a721882bd","toSide":"left","toEnd":"none","color":"4"},
+		{"id":"9892c2102bdd1628","fromNode":"ee33d3636efb3da1","fromSide":"right","toNode":"d763be6ea1a37cd0","toSide":"left","toEnd":"none","color":"4"},
+		{"id":"1b20347a0301b987","fromNode":"3eb6a021d6fdda96","fromSide":"right","toNode":"8e6de7dcbd24e785","toSide":"left","toEnd":"none","color":"5"},
+		{"id":"8e9c5cc0a83a0849","fromNode":"2157c4981056c73c","fromSide":"right","toNode":"5541ec8a721882bd","toSide":"left","toEnd":"none","color":"5"},
+		{"id":"652710f73663e8f5","fromNode":"f67259310917a625","fromSide":"right","toNode":"d763be6ea1a37cd0","toSide":"left","toEnd":"none","color":"5"},
+		{"id":"13fae0c1c3a3a804","fromNode":"39368c3e062ddf57","fromSide":"right","toNode":"8e6de7dcbd24e785","toSide":"left","toEnd":"none","color":"3"},
+		{"id":"bdb039c62dc1c38e","fromNode":"240d6b4d77b53132","fromSide":"right","toNode":"5541ec8a721882bd","toSide":"left","toEnd":"none","color":"3"},
+		{"id":"c7273b182f687eeb","fromNode":"877ea7bae7e0b78a","fromSide":"right","toNode":"d763be6ea1a37cd0","toSide":"left","toEnd":"none","color":"3"}
+	]
+}

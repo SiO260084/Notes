@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"1e57f98a45bb58ef","type":"group","x":-380,"y":-308,"width":360,"height":253,"label":"国情"},
+		{"id":"dc49178c14fa5e50","type":"group","x":73,"y":-303,"width":347,"height":248,"label":"矛盾"},
+		{"id":"fd996d6cfba408e1","type":"group","x":496,"y":-308,"width":324,"height":251,"label":"任务"},
+		{"id":"5a893d2a48576390","type":"text","text":"半殖民地反封建社会","x":-346,"y":-211,"width":280,"height":60},
+		{"id":"a94b8a07649377e3","type":"text","text":"帝国主义——中华民族","x":93,"y":-288,"width":307,"height":50},
+		{"id":"994bc86a645ed62e","type":"text","text":"封建主义——人民","x":93,"y":-135,"width":305,"height":60},
+		{"id":"0c7320ebe110ce90","type":"text","text":"反帝：民族独立","x":516,"y":-288,"width":250,"height":60},
+		{"id":"c9319c5cbb7bd703","type":"text","text":"反封建：人民解放","x":516,"y":-137,"width":275,"height":60}
+	],
+	"edges":[
+		{"id":"5df784ab4c6617ce","fromNode":"5a893d2a48576390","fromSide":"right","toNode":"a94b8a07649377e3","toSide":"left"},
+		{"id":"1ea2f759ba65da47","fromNode":"5a893d2a48576390","fromSide":"right","toNode":"994bc86a645ed62e","toSide":"left"},
+		{"id":"7c6d49bb3fa037ae","fromNode":"a94b8a07649377e3","fromSide":"right","toNode":"0c7320ebe110ce90","toSide":"left"},
+		{"id":"35929acd1607e756","fromNode":"994bc86a645ed62e","fromSide":"right","toNode":"c9319c5cbb7bd703","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4b2038c2ff3546b6","x":-299,"y":-230,"width":319,"height":270,"type":"group","label":"政治方向"},
+		{"id":"b40554e4737374c8","x":-279,"y":-210,"width":250,"height":60,"type":"text","text":"谁领导"},
+		{"id":"e8f8e6bfef7c11be","x":-279,"y":-130,"width":250,"height":60,"type":"text","text":"依靠谁"},
+		{"id":"57266266cc76602e","x":-279,"y":-50,"width":250,"height":60,"type":"text","text":"走什么路"}
+	],
+	"edges":[]
+}

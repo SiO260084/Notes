@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"3d3c4fa2d63ba285","type":"group","x":-355,"y":225,"width":675,"height":355,"color":"#ff00a2","label":"政党的区别"},
+		{"id":"9e0443bddec7406d","type":"group","x":-355,"y":640,"width":475,"height":360,"color":"6","label":"法治的区别"},
+		{"id":"f5d90d1075c2e31b","x":600,"y":640,"width":518,"height":243,"color":"#1100ff","type":"group","label":"军队的区别"},
+		{"id":"88d675efd3f94324","type":"group","x":170,"y":640,"width":390,"height":320,"color":"4","label":"生产的区别"},
+		{"id":"0c194f5bd8b99fb1","type":"group","x":360,"y":403,"width":400,"height":177,"color":"2","label":"哲学社会科学的区别"},
+		{"id":"0811cf45368ced6a","type":"group","x":360,"y":225,"width":400,"height":135,"color":"5","label":"现代化的区别"},
+		{"id":"8c45c9d83213a213","type":"text","text":"#### 三大优良作风\n1. 理论联系实际\n2. 密切联系群众\n3. 批评与自我批评","x":0,"y":245,"width":300,"height":315,"color":"#f8a968"},
+		{"id":"95c5dc0ca6b2d532","type":"text","text":"#### 勇于自我革命\n最显著区别","x":-335,"y":245,"width":300,"height":135,"color":"#ff0000"},
+		{"id":"ca0c0ab1c674fc71","type":"text","text":"#### 人民至上  \n或者叫人民立场，或者说全心全意为人民服务","x":-335,"y":411,"width":300,"height":149,"color":"#f8a968"},
+		{"id":"6d9c35619cb07b27","type":"text","text":"#### 共同富裕","x":374,"y":245,"width":320,"height":87},
+		{"id":"ac96673edeb6a8c0","type":"text","text":"#### 坚持以马克思主义为指导","x":420,"y":448,"width":308,"height":75},
+		{"id":"63cccc2da75f06e7","type":"text","text":"#### 坚持中国共产党的领导\n最大区别","x":-300,"y":680,"width":360,"height":130},
+		{"id":"0c0f9484056dad1b","type":"text","text":"#### 把党内法规纳入中特法制体系","x":-300,"y":860,"width":360,"height":80},
+		{"id":"489008bdc858e795","type":"text","text":"#### 资本生产\n生产表现为人的目的，而人并不是生产的目的","x":190,"y":660,"width":341,"height":120},
+		{"id":"e06d8f1ac2395bb1","type":"text","text":"#### 社会主义生产\n关注人本身的发展","x":190,"y":810,"width":340,"height":80},
+		{"id":"160c429594ccaf69","x":620,"y":740,"width":227,"height":123,"type":"text","text":"1. 党委制\n2. 政治委员制\n3. 政治机关制"},
+		{"id":"fd7cc2831b8de5a4","x":620,"y":660,"width":227,"height":60,"type":"text","text":"主席负责制"},
+		{"id":"74a0b0f8f03a9199","x":871,"y":660,"width":227,"height":60,"type":"text","text":"首长分工责任制"},
+		{"id":"3f3a512af87c4b6d","x":871,"y":740,"width":227,"height":60,"type":"text","text":"支部建在连上"}
+	],
+	"edges":[]
+}

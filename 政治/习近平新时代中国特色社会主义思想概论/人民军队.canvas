@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"7581c8e0e520390e","x":-231,"y":-260,"width":290,"height":368,"color":"1","type":"group","label":"党对人民军队的绝对领导"},
+		{"id":"aa3d9b06991ff6a4","x":-211,"y":-240,"width":250,"height":96,"color":"5","type":"text","text":"#### 发端于\n南昌起义"},
+		{"id":"58f220bf67f26c0b","x":-211,"y":-8,"width":250,"height":96,"color":"2","type":"text","text":"#### 定型于\n古田会议"},
+		{"id":"b533f5d6c268939a","x":-211,"y":-124,"width":250,"height":96,"color":"4","type":"text","text":"#### 奠基于\n三湾改编"},
+		{"id":"44fcd55c1c3afd0a","x":-520,"y":-101,"width":220,"height":50,"color":"4","type":"text","text":"新型人民军队发端于"}
+	],
+	"edges":[
+		{"id":"07ecb732900ee718","fromNode":"aa3d9b06991ff6a4","fromSide":"bottom","toNode":"b533f5d6c268939a","toSide":"top"},
+		{"id":"dc1357e5bfbcb7e8","fromNode":"b533f5d6c268939a","fromSide":"bottom","toNode":"58f220bf67f26c0b","toSide":"top"},
+		{"id":"0018e2d0d9815707","fromNode":"44fcd55c1c3afd0a","fromSide":"right","toNode":"b533f5d6c268939a","toSide":"left"}
+	]
+}
